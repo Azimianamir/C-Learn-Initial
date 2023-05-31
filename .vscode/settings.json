@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "Aad.C": "cpp",
+        "BB1.C": "cpp",
+        "random": "cpp"
+    }
+}
